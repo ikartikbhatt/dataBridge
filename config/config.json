@@ -1,0 +1,20 @@
+{
+    "PROD": {
+        "user": "USERNAME",
+        "password": "PASSWORD",
+        "connectString": "CONNECTSTRING"
+    },
+
+    "UAT" : {
+        "user": "USERNAME",
+        "password": "PASSWORD",
+        "connectString": "CONNECTSTRING"
+    },
+
+    "REGEX":{
+            "agentCodeRegex":"^[A-Z0-9]{14}$",
+            "agentAdharRegex":"^\\d{12}$",
+            "agentPanRegex":"^[A-Z]{5}[0-9]{4}[A-Z]{1}$",
+            "villageCodeRegex":"^\\d{6}$"
+    }
+}
