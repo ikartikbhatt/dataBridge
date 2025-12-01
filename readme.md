@@ -13,7 +13,10 @@ This tool has been tested in both UAT and Production environments and currently 
 More features, UI enhancements, and automation modules will be added in Version 2.0.
 
 🖥️ CLI Screenshot
-(Place the screenshot file in: /assets/databridge-menu.png)
+
+<p align="center">
+  <img src="./assets/dataBridge.png" width="600" />
+</p>
 
 
 ⭐ Key Features (v1.0)
@@ -106,7 +109,7 @@ Generates Excel reports
 
 Names files using:
 
-Date (YYYY-MM-DD)
+Date (DD-MM-YYYY)
 
 Timestamp
 
